@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/hw1.cpp.o CMakeFiles/main.dir/src/unit_test.cpp.o -o main  /opt/homebrew/lib/libgtest_main.a /opt/homebrew/lib/libgtest.a 
