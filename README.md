@@ -1,6 +1,8 @@
 # cpp-learning
 Amirkabir University of Technology 1400-2: Advanced Programming Course
 
+## References
+[C++ Basics](https://cpp-note.readthedocs.io/zh/latest/index.html)
 
 ## Assignments (Completion Date)
 - [ ] HW1: Implement a Matrix class and associated functions
